@@ -14,7 +14,6 @@ This repository contains completed labs from the **101 Labs** series, showcasing
 - **[SSH Lab](SSH-Lab/)**: Learn how to configure secure remote access with SSH, including hostname/domain name setup, RSA key generation, and VTY line restrictions.
 - **[DNS Lab](DNS-Lab/)**: Practice configuring a DNS server, creating DNS records, and testing domain resolution from a host device.
 - **[Telnet Lab](Telnet-Lab/)**: Explore how to configure Telnet access on a Cisco router, test remote access, and understand its limitations in secure environments.
-- **[Routing Lab](Routing-Lab/)**: Explore basic and advanced routing configurations to ensure data packets reach their intended destination.
 
 ## How to Use
 1. **Clone the Repository**:
