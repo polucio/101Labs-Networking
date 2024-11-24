@@ -11,11 +11,12 @@ This repository contains completed labs from the **101 Labs** series, showcasing
 - [How to Use](#how-to-use)
 
 ## Labs Included
-- **[SSH Lab](SSH-Lab/)**: Learn how to configure secure remote access with SSH, including hostname/domain name setup, RSA key generation, and VTY line restrictions.
-- **[DNS Lab](DNS-Lab/)**: Practice configuring a DNS server, creating DNS records, and testing domain resolution from a host device.
-- **[Telnet Lab](Telnet-Lab/)**: Explore how to configure Telnet access on a Cisco router, test remote access, and understand its limitations in secure environments.
+1. **[Lab 1: SSH](SSH-Lab/)** - Learn how to configure secure remote access with SSH, including hostname/domain name setup, RSA key generation, and VTY line restrictions.
+2. **[Lab 2: DNS](DNS-Lab/)** - Practice configuring a DNS server, creating DNS records, and testing domain resolution from a host device.
+3. **[Lab 3: Telnet](Telnet-Lab/)** - Explore how to configure Telnet access on a Cisco router, test remote access, and understand its limitations in secure environments.
 
 ## How to Use
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/polucio/101Labs-Networking.git
+
