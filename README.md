@@ -9,7 +9,6 @@ This repository contains completed labs from the **101 Labs** series, showcasing
 ## Table of Contents
 - [Labs Included](#labs-included)
 - [How to Use](#how-to-use)
-- [Contributions](#contributions)
 
 ## Labs Included
 - **[SSH Lab](SSH-Lab/)**: Learn how to configure secure remote access with SSH, including hostname/domain name setup, RSA key generation, and VTY line restrictions.
