@@ -4,7 +4,7 @@
 ![Cisco Packet Tracer](https://img.shields.io/badge/Tool-Cisco%20Packet%20Tracer-blue)
 ![CompTIA Network+](https://img.shields.io/badge/Certification-Network%2B-red)
 
-This repository contains completed labs from the **101 Labs** series, showcasing hands-on networking configurations using Packet Tracer. It is designed to help students and professionals build practical skills in networking and prepare for the **CompTIA Network+ N10-008 certification**.
+This repository contains completed labs from the **101 Labs** series, showcasing hands-on networking configurations using Packet Tracer. It is designed to help students and professionals build practical skills in networking and prepare for the **CompTIA Network+ N10-009 certification**.
 
 ## Table of Contents
 1. **[Lab 1: SSH](SSH-Lab/)** - Learn how to configure secure remote access with SSH, including hostname/domain name setup, RSA key generation, and VTY line restrictions.
