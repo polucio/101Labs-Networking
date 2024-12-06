@@ -3,9 +3,6 @@
 ## Objective
 This lab demonstrates how to configure DHCP on a Cisco router, troubleshoot IP conflicts, and resolve network connectivity issues using Cisco Packet Tracer.
 
-## Topology
-Include a visual representation of the network topology here. (e.g., upload a screenshot of your Packet Tracer setup).
-
 ## Steps Performed
 ### 1. Router Configuration
 1. Configured DHCP with the following settings:
@@ -59,11 +56,3 @@ Include a visual representation of the network topology here. (e.g., upload a sc
 - Experimented with static routes to test inter-VLAN communication.
 - Configured static DNS server settings for all devices.
 
-## Screenshots and Supporting Files
-Include screenshots and configurations from Packet Tracer here.
-
----
-
-## Future Work
-- Test VLAN segmentation and routing.
-- Experiment with more advanced DHCP configurations, such as reservations and exclusions.
