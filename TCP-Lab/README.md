@@ -20,7 +20,6 @@ The purpose of this lab was to establish a Telnet connection to a public server,
 ## Troubleshooting Steps
 ### Initial Issue:
 Attempting to connect to `telehack.com` on port 143 resulted in the error:
-```plaintext
 Unable to open connection to telehack.com port 143: Name or service not known
 
 ### Resolution:
