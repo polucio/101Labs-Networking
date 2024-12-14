@@ -115,3 +115,13 @@ TCP (Transmission Control Protocol) is a foundational part of the TCP/IP suite, 
 - [TCP Overview](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
 - [Telnet Protocol](https://en.wikipedia.org/wiki/Telnet)
 - [Wireshark Documentation](https://www.wireshark.org/docs/)
+
+---
+
+### **Acknowledgments**
+Lab based on "101 Labs - CompTIA Network+" by Paul Browning.
+
+---
+
+### **References**
+Browning, Paul. *101 Labs - CompTIA Network+: Hands-on Practical Labs for the N10-008 Exam.*
