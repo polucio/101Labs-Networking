@@ -106,3 +106,12 @@ DNS is a critical service that allows the use of human-readable hostnames instea
 - [DNS Overview](https://en.wikipedia.org/wiki/Domain_Name_System)
 - [Packet Tracer Documentation](https://www.netacad.com/courses/packet-tracer)
 - [Networking Basics](https://www.cisco.com/c/en/us/solutions/enterprise-networks/networking-basics.html)
+
+
+### **Acknowledgments**
+Lab based on "101 Labs - CompTIA Network+" by Paul Browning.
+
+---
+
+### **References**
+Browning, Paul. *101 Labs - CompTIA Network+: Hands-on Practical Labs for the N10-008 Exam.*
