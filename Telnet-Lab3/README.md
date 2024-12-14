@@ -117,3 +117,13 @@ Telnet is a protocol for remotely connecting to network devices. However, it is 
 - [Telnet Overview](https://en.wikipedia.org/wiki/Telnet)
 - [Packet Tracer Documentation](https://www.netacad.com/courses/packet-tracer)
 - [Cisco Router Configuration Guide](https://www.cisco.com/c/en/us/td/docs/routers/)
+
+---
+
+### **Acknowledgments**
+Lab based on "101 Labs - CompTIA Network+" by Paul Browning.
+
+---
+
+### **References**
+Browning, Paul. *101 Labs - CompTIA Network+: Hands-on Practical Labs for the N10-008 Exam.*
