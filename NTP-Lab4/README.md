@@ -139,3 +139,13 @@ NTP ensures accurate timekeeping for devices across a network, which is critical
 - [NTP Overview](https://en.wikipedia.org/wiki/Network_Time_Protocol)
 - [Packet Tracer Documentation](https://www.netacad.com/courses/packet-tracer)
 - [Cisco Router Configuration Guide](https://www.cisco.com/c/en/us/td/docs/routers/)
+
+---
+
+### **Acknowledgments**
+Lab based on "101 Labs - CompTIA Network+" by Paul Browning.
+
+---
+
+### **References**
+Browning, Paul. *101 Labs - CompTIA Network+: Hands-on Practical Labs for the N10-008 Exam.*
