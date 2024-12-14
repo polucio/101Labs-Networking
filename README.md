@@ -18,6 +18,8 @@ This repository contains completed labs from the **101 Labs** series, showcasing
 6. **[Lab 6: TCP Analysis](TCP-Lab6/)** - Use Telnet to connect to a public server, analyze TCP traffic with Wireshark, and troubleshoot connection issues.
 7. **[Lab 7: UDP](UDP-Lab7/)** - Learn how to capture and analyze UDP packets using Wireshark and understand their role in protocols like DNS.
 8. **[Lab 8: ICMP](ICMP-Lab8/)** - Use Wireshark to capture and analyze ICMP packets, specifically echo requests and replies from the `ping` command.
+9. **[Lab 9: FTP Remote File Access](FTP-Lab9/)** - Configure and use FTP to back up router configurations, troubleshoot connectivity, and handle file transfer errors.
+
 
 ---
 
