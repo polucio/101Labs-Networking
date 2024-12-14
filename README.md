@@ -1,3 +1,4 @@
+
 # 101Labs-Networking
 ![GitHub last commit](https://img.shields.io/github/last-commit/polucio/101Labs-Networking)
 ![GitHub repo size](https://img.shields.io/github/repo-size/polucio/101Labs-Networking)
@@ -15,6 +16,7 @@ This repository contains completed labs from the **101 Labs** series, showcasing
 4. **[Lab 4: NTP](NTP-Lab/)** - Configure an NTP server and client to synchronize time across devices.
 5. **[Lab 5: DHCP Troubleshooting](DHCP-Lab)** - Configure a DHCP server, troubleshoot IP conflicts, and verify network connectivity across devices.
 6. **[Lab 6: TCP Analysis](TCP-Lab/)** - Use Telnet to connect to a public server, analyze TCP traffic with Wireshark, and troubleshoot connection issues.
+7. **[Lab 7: UDP](UDP-Lab/)** - Learn how to capture and analyze UDP packets using Wireshark and understand their role in protocols like DNS.
 
 ---
 
@@ -22,3 +24,4 @@ This repository contains completed labs from the **101 Labs** series, showcasing
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/polucio/101Labs-Networking.git
+
