@@ -115,3 +115,12 @@ Ensure your machine can access the internet to ping external websites.
 - [ICMP Protocol on Wikipedia](https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol)
 - [Ping Command Documentation](https://www.computerhope.com/pinghlp.htm)
 
+---
+
+### **Acknowledgments**
+Lab based on "101 Labs - CompTIA Network+" by Paul Browning.
+
+---
+
+### **References**
+Browning, Paul. *101 Labs - CompTIA Network+: Hands-on Practical Labs for the N10-008 Exam.*
