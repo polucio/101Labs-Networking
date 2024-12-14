@@ -91,3 +91,13 @@ This lab demonstrates how to configure DHCP on a Cisco router, troubleshoot IP c
 - DHCP simplifies network administration by automating IP allocation.
 - Ensure proper connectivity between the server and the hosts to avoid issues.
 - Consider configuring a router to act as a DHCP server in advanced setups.
+
+---
+
+### **Acknowledgments**
+Lab based on "101 Labs - CompTIA Network+" by Paul Browning.
+
+---
+
+### **References**
+Browning, Paul. *101 Labs - CompTIA Network+: Hands-on Practical Labs for the N10-008 Exam.*
