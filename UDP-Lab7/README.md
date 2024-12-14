@@ -136,4 +136,13 @@ Ensure your system can access the internet, as you will perform a DNS lookup for
 - [UDP on Wikipedia](https://en.wikipedia.org/wiki/User_Datagram_Protocol)
 - [Kali Linux Documentation](https://www.kali.org/docs/)
 
+---
+
+### **Acknowledgments**
+Lab based on "101 Labs - CompTIA Network+" by Paul Browning.
+
+---
+
+### **References**
+Browning, Paul. *101 Labs - CompTIA Network+: Hands-on Practical Labs for the N10-008 Exam.*
 
